@@ -1,6 +1,9 @@
-# AnalisisMikrokontroller
+# AnalisisMikrokontrollerPada MSP430
 
 # MSP430: Struktur, Spesifikasi, dan Control Unit
+
+![image](https://github.com/user-attachments/assets/ba3bc223-bf48-4a6f-b60a-dd556a82c1a7)
+(MSP430)
 
 ## 1 Struktur MSP430
 
