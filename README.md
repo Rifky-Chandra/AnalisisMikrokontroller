@@ -1,4 +1,4 @@
-# AnalisisMikrokontrollerPada MSP430
+# Analisis Mikrokontroller Pada MSP430
 
 # MSP430: Struktur, Spesifikasi, dan Control Unit
 
