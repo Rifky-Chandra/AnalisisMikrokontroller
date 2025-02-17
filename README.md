@@ -39,15 +39,15 @@ MSP430 adalah mikrokontroler 16-bit dari Texas Instruments, dirancang untuk apli
 ## 2 Spesifikasi Umum MSP430
 
  **Fitur**              **Detail**                           
- Arsitektur             16-bit RISC                         
- Kecepatan Clock        Hingga 25 MHz (tergantung model)    
- Tegangan Operasi       1.8V – 3.6V                         
- Memori Flash           0.5KB – 256KB                       
- RAM                    128B – 16KB                        
- GPIO                   8 hingga 80 pin I/O                
- ADC                    10-bit atau 12-bit SAR ADC         
- Komunikasi Serial      UART, SPI, I2C                     
- Power Modes            LPM0 – LPM4 (Low Power Modes)     
+ Arsitektur           =  16-bit RISC                         
+ Kecepatan Clock      =  Hingga 25 MHz (tergantung model)    
+ Tegangan Operasi     =  1.8V – 3.6V                         
+ Memori Flash         =  0.5KB – 256KB                       
+ RAM                  =  128B – 16KB                        
+ GPIO                 =  8 hingga 80 pin I/O                
+ ADC                  =  10-bit atau 12-bit SAR ADC         
+ Komunikasi Serial    =  UART, SPI, I2C                     
+ Power Modes          =  LPM0 – LPM4 (Low Power Modes)     
 
 ---
 
